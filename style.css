@@ -1,0 +1,18 @@
+
+
+body{
+    background-color:darkslategrey;
+    text-align: center;
+}
+h1{
+    color: black;
+    background-color:darkgray;
+    display:inline-block ;
+    width: 120px;
+    border: 2px solid darkslategrey;
+}
+.divcolor{
+    background-color:lightgray;
+    border: 5px lightslategray;
+    box-shadow: lightsteelblue;
+}
